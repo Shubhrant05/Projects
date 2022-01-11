@@ -39,7 +39,12 @@
     font-weight: 600;
 }
 .w-55{
+    width:100%
+}
+@media (min-width: 998px){
+.w-55{
     width: 55%;
+}
 }
 .min-h-70{
     min-height: 70%;
